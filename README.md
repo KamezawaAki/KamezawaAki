@@ -1,4 +1,4 @@
-- Hello, I’m Kamezawa Akira, call me anything you want, idrc.
+- Hello, I’m Aki, call me anything you want, idrc.
 -  I'm 19. My interest is you
 <!---
 KamezawaAki/KamezawaAki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
